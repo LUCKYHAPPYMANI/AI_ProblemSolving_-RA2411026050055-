@@ -3,7 +3,7 @@
 ### Intelligent Systems using Search Algorithms, Optimization & Logical Reasoning
 
 <p align="center">
-  ![Project Banner](assets/banner.png)
+  <img src="assets/banner.png" alt="Project Banner" width="100%">
 </p>
 
 <p align="center">
